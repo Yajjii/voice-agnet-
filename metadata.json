@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Agent",
+  "description": "A fully functional voice agent that listens to user speech, processes it through Gemini for intelligent responses, and speaks back the answer, maintaining a conversational context.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
